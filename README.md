@@ -1,7 +1,7 @@
 # ibge
  Scripts to help in census 2022
 
-## this dir contains three scripts:
+## this repository contains three scripts:
 
 1) invasions_census, to help in indentifying invasions in census tracts
 
